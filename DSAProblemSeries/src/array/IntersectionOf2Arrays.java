@@ -5,7 +5,7 @@ import java.util.Set;
 
 /** Program to Find Intersection of two unsorted arrays and print count and contents of it
  * @author sanjay
- *
+ * Concept used - Hashing
  */
 
 public class IntersectionOf2Arrays {
