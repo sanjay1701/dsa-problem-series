@@ -25,6 +25,7 @@ public class Mergetwosortedarrays {
 		Arrays.stream(ar2).forEach(k-> System.out.print(k + " "));
 	}
 
+
 	public static void main(String[] args) {
 
 		int[] ar1 = {1, 5, 9, 10, 15, 20};
