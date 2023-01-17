@@ -2,7 +2,7 @@ package Algorithms;
 
 public class BinarySearch {
     /** find the element in sorted array using Binary search and print it
-     * @param arr
+     * @param arr - should be in ascending or descending order
      */
     static int binarySearch(int[] arr,int target){
         int start =0,end=arr.length-1;
