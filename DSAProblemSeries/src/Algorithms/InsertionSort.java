@@ -1,4 +1,4 @@
-package sortingAlgorithms;
+package Algorithms;
 
 public class InsertionSort {
 
